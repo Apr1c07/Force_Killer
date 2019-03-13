@@ -1,0 +1,22 @@
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\bin\Debug\Force Killer.exe.config
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\bin\Debug\Force Killer.exe
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\bin\Debug\Force Killer.pdb
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Debug\Force Killer.csprojAssemblyReference.cache
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Debug\Force_Killer.Form1.resources
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Debug\Force_Killer.Form2.resources
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Debug\Force_Killer.Properties.Resources.resources
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Debug\Force Killer.csproj.GenerateResource.cache
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Debug\Force Killer.csproj.CoreCompileInputs.cache
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Debug\Force Killer.exe
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Debug\Force Killer.pdb
+D:\Users\Apr1c07\source\repos\Force Killer\Force Quitter\bin\Debug\Force Killer.exe.config
+D:\Users\Apr1c07\source\repos\Force Killer\Force Quitter\bin\Debug\Force Killer.exe
+D:\Users\Apr1c07\source\repos\Force Killer\Force Quitter\bin\Debug\Force Killer.pdb
+D:\Users\Apr1c07\source\repos\Force Killer\Force Quitter\obj\Debug\Force Killer.csprojAssemblyReference.cache
+D:\Users\Apr1c07\source\repos\Force Killer\Force Quitter\obj\Debug\Force_Killer.Form1.resources
+D:\Users\Apr1c07\source\repos\Force Killer\Force Quitter\obj\Debug\Force_Killer.Form2.resources
+D:\Users\Apr1c07\source\repos\Force Killer\Force Quitter\obj\Debug\Force_Killer.Properties.Resources.resources
+D:\Users\Apr1c07\source\repos\Force Killer\Force Quitter\obj\Debug\Force Killer.csproj.GenerateResource.cache
+D:\Users\Apr1c07\source\repos\Force Killer\Force Quitter\obj\Debug\Force Killer.csproj.CoreCompileInputs.cache
+D:\Users\Apr1c07\source\repos\Force Killer\Force Quitter\obj\Debug\Force Killer.exe
+D:\Users\Apr1c07\source\repos\Force Killer\Force Quitter\obj\Debug\Force Killer.pdb

@@ -1,0 +1,11 @@
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\bin\Debug\Force Quitter.exe.config
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\bin\Debug\Force Quitter.exe
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\bin\Debug\Force Quitter.pdb
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Debug\Force_Quitter.Form1.resources
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Debug\Force_Quitter.Form2.resources
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Debug\Force_Quitter.Properties.Resources.resources
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Debug\Force Quitter.csproj.GenerateResource.cache
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Debug\Force Quitter.csproj.CoreCompileInputs.cache
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Debug\Force Quitter.exe
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Debug\Force Quitter.pdb
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Debug\Force Quitter.csprojAssemblyReference.cache

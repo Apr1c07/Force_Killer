@@ -1,0 +1,11 @@
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\bin\Release\Force Quitter.exe.config
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\bin\Release\Force Quitter.exe
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\bin\Release\Force Quitter.pdb
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Release\Force Quitter.csprojAssemblyReference.cache
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Release\Force_Quitter.Form1.resources
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Release\Force_Quitter.Form2.resources
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Release\Force_Quitter.Properties.Resources.resources
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Release\Force Quitter.csproj.GenerateResource.cache
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Release\Force Quitter.csproj.CoreCompileInputs.cache
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Release\Force Quitter.exe
+D:\Users\Apr1c07\source\repos\Force Quitter\Force Quitter\obj\Release\Force Quitter.pdb
